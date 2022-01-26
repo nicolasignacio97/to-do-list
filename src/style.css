@@ -1,0 +1,40 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color:#fef9ef ;
+}
+.card-color{
+    background-color:#227c9d ;
+}
+.tarea-color{
+    background-color:#227c9d ;
+    border: none;
+    cursor: pointer;
+ 
+}
+.letra-color{
+    color: #ffffff;
+}
+.letra{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.completado{
+    text-decoration: line-through;
+}
+
+
+
+.colorBoton{
+    background-color:#fe6d73 ;
+    color: white;
+}
+.colorAgregar{
+    background-color:#ffcb77 ;
+
+}
+.list:hover{
+    background-color: #3294b8;
+}
